@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gpachs (Goldman Obioma)
 - 👀 I’m interested in software development and improving on my skills
-- 🌱 I’m currently learning ALX/ALT
+- 🌱 I’m currently participating in ALX SE bootcamp 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me obiomagoldman@gmail.com
 
